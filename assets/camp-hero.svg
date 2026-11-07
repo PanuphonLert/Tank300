@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1350" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="title desc">
+  <title id="title">ตั้งแคมป์ท่ามกลางขุนเขายามค่ำ</title>
+  <desc id="desc">ภาพวาดทิวเขา ป่าสน เต็นท์ แคมป์ไฟ และรถออฟโรดใต้ท้องฟ้าพลบค่ำ</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#263b3b"/><stop offset=".48" stop-color="#718075"/><stop offset=".76" stop-color="#c99a6b"/><stop offset="1" stop-color="#413b32"/></linearGradient>
+    <linearGradient id="sunset" x2="0" y2="1"><stop stop-color="#f3c58b" stop-opacity=".75"/><stop offset="1" stop-color="#d88e61" stop-opacity="0"/></linearGradient>
+    <linearGradient id="ground" x2="0" y2="1"><stop stop-color="#34443b"/><stop offset="1" stop-color="#131c18"/></linearGradient>
+    <linearGradient id="tent" x2="0" y2="1"><stop stop-color="#d1b58b"/><stop offset="1" stop-color="#705b42"/></linearGradient>
+    <radialGradient id="fire"><stop stop-color="#ffe9a8" stop-opacity=".8"/><stop offset="1" stop-color="#ef8a47" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="34"/></filter>
+  </defs>
+  <rect width="2400" height="1350" fill="url(#sky)"/>
+  <ellipse cx="1560" cy="730" rx="560" ry="220" fill="url(#sunset)" filter="url(#soft)"/>
+  <circle cx="1670" cy="615" r="92" fill="#edc994" opacity=".8"/>
+  <path d="M0 780 250 500l160 180 260-360 260 360 200-240 250 300 260-400 290 360 180-220 290 300v570H0Z" fill="#374841"/>
+  <path d="m300 555 110 125 260-360 145 200-95-55-53 34-48-33-52 48-49-25-57 51-60-20Z" fill="#b5b4a1" opacity=".57"/>
+  <path d="m1180 745 200-305 260 360-100-55-58 38-52-30-64 44-55-27-50 37Z" fill="#c1bba7" opacity=".48"/>
+  <path d="M0 865q310-130 580 0t550 0q260-120 560 0t710-45v530H0Z" fill="#293b33"/>
+  <path d="M0 1010q370-150 710 0t670-5q450-180 1020 15v330H0Z" fill="url(#ground)"/>
+  <g fill="#17231d">
+    <path d="m80 1050 100-260 100 260h-58l91 160H45l91-160Z"/><path d="m270 1100 90-230 90 230h-52l78 140H244l78-140Z"/>
+    <path d="m2020 1040 105-280 105 280h-60l95 175h-280l95-175Z"/><path d="m2220 1110 85-225 85 225h-48l70 130h-232l70-130Z"/>
+    <path d="m1790 1070 72-190 72 190h-41l62 115h-184l62-115Z"/>
+  </g>
+  <g fill="#22342c" opacity=".9"><path d="m0 1130 70-180 70 180h-40l60 110H-20l60-110Z"/><path d="m420 1190 60-160 60 160h-34l51 92H403l51-92Z"/><path d="m2310 1180 60-160 60 160h-34l51 92h-154l51-92Z"/></g>
+  <ellipse cx="1255" cy="1175" rx="360" ry="80" fill="#111a15" opacity=".65"/>
+  <!-- warm-lit camping tent -->
+  <path d="m1120 1110 175-235 205 235Z" fill="url(#tent)" stroke="#e1c49a" stroke-width="8"/>
+  <path d="m1295 875 8 235h197Z" fill="#9a7952" opacity=".72"/>
+  <path d="m1246 1110 55-120 61 120Z" fill="#312f27"/>
+  <path d="m1120 1110 175-235 205 235" fill="none" stroke="#e9d4ae" stroke-width="7" opacity=".8"/>
+  <!-- campfire -->
+  <ellipse cx="1590" cy="1150" rx="180" ry="140" fill="url(#fire)"/>
+  <path d="M1560 1134q-50-58 5-105-6 55 38 62 2-65 45-94-16 71 22 107 30 55-40 83-77 12-70-53Z" fill="#ed8750"/>
+  <path d="M1582 1158q-19-29 12-55 0 28 24 33 18 31-12 45-31 1-24-23Z" fill="#ffdf9a"/>
+  <path d="m1535 1180 120-29m-112-2 104 45" stroke="#443125" stroke-width="17" stroke-linecap="round"/>
+  <!-- off-road SUV silhouette -->
+  <g transform="translate(520 1030)">
+    <path d="M30 90 68 30q12-19 38-22l210-8q29 1 43 23l52 67 43 15 13 43H0l8-40q4-14 22-18Z" fill="#17231d" stroke="#bca47f" stroke-width="5"/>
+    <path d="m102 20 203-4 49 67H65Z" fill="#68776b" stroke="#c2b08f" stroke-width="5"/>
+    <path d="m207 18-3 69m99-69 41 65" stroke="#293a31" stroke-width="8"/>
+    <rect x="26" y="94" width="407" height="48" rx="9" fill="#29382f"/>
+    <rect x="391" y="101" width="34" height="19" rx="4" fill="#e6b781"/><rect x="29" y="100" width="25" height="15" rx="4" fill="#d68a5f"/>
+    <circle cx="94" cy="151" r="39" fill="#111714" stroke="#899081" stroke-width="8"/><circle cx="94" cy="151" r="13" fill="#b7ac91"/>
+    <circle cx="350" cy="151" r="39" fill="#111714" stroke="#899081" stroke-width="8"/><circle cx="350" cy="151" r="13" fill="#b7ac91"/>
+    <path d="M173 1v-26h84V0" fill="none" stroke="#17231d" stroke-width="12"/>
+  </g>
+  <g fill="#f2dfbd" opacity=".7"><circle cx="300" cy="190" r="3"/><circle cx="510" cy="270" r="2"/><circle cx="920" cy="165" r="3"/><circle cx="1110" cy="260" r="2"/><circle cx="1960" cy="180" r="3"/><circle cx="2140" cy="330" r="2"/><circle cx="1800" cy="275" r="2"/></g>
+  <rect width="2400" height="1350" fill="none" stroke="#e1c49a" stroke-opacity=".12" stroke-width="28"/>
+</svg>
